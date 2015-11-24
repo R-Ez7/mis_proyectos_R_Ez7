@@ -1,0 +1,29 @@
+How to install facial controls GUI
+
+put self_SkeletonShelf.mel in:
+
+Windows XP
+\Documents and Settings\<username>\My Documents\maya\2015-x64\prefs\shelves
+
+Windows Vista and Windows 7
+\Users\<username>\Documents\maya\2015-x64\prefs\shelves
+
+Mac OS X
+~<username>/Library/Preferences/Autodesk/maya/2015-x64\prefs\shelves
+
+Linux (64-bit)
+~<username>/maya/2015-x64\prefs\shelves
+
+And the icon in:
+
+Windows XP
+\Documents and Settings\<username>\My Documents\maya\2015-x64\prefs\icon
+
+Windows Vista and Windows 7
+\Users\<username>\Documents\maya2015-x64\prefs\icon
+
+Mac OS X
+~<username>/Library/Preferences/Autodesk/maya2015-x64/prefs/icon
+
+Linux (64-bit)
+~<username>/maya/2015-x64\prefs\icon\

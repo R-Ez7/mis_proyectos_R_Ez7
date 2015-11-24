@@ -1,0 +1,2 @@
+//Removes selected objects to Hypershade graph
+hyperShadePanelGraphCommand("hyperShadePanel1", "removeSelected");
