@@ -1,5 +1,0 @@
-//Create an Alias Attribute for Scale Y on Global Control Curve
-aliasAttr charScale cc_global01.sy;
-
-//Remove the Alias Attribute on Global Control Curve, restoring the name Scale Y
-aliasAttr -rm cc_global01.charScale;
